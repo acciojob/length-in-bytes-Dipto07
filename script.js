@@ -7,6 +7,6 @@ const byteSize = (str) => {
   return sizeInBytes;
 };
 
-Do not change the code below
+//Do not change the code below
 const str = prompt("Enter some string.");
 alert(byteSize(str));
